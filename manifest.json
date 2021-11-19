@@ -1,0 +1,9 @@
+{
+    "name": "Minecraft 1.18 Release Countdown",
+    "description": "Can you wait?!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    }
+}

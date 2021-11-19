@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'minecraft';
+    src: url(./minecraft_font.ttf) format('truetype');
+}
+body {
+    margin: 0;
+    background-image: url("./thumb.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto 100%;
+    background-color: black;
+}
+#countdown {
+    color: white;
+    font-family: minecraft;
+    text-align: right;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
