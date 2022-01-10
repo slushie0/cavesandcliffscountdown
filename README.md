@@ -1,6 +1,6 @@
-# cavesandcliffscountdown
+# Minecraft New Tab Background and Update Countdown
 
-This is a chrome extension that will change your new tab page to a countdown timer for the 1.18 Minecraft release.
+A Chrome extension that sets your New Tab page background to a Minecraft-themed photo, and includes a countdown for new Minecraft updates!
 
 Here's an example:
 <img src="https://raw.githubusercontent.com/slushie0/cavesandcliffscountdown/6c4ea3f70584b742e13bc209716860ae56264a7a/ext.png">
