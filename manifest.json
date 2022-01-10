@@ -1,7 +1,7 @@
 {
-    "name": "Minecraft 1.18 Release Countdown",
-    "description": "Can you wait?!",
-    "version": "1.0",
+    "name": "Minecraft New Tab Background and Update Countdown",
+    "description": "A Chrome extension that sets your New Tab page background to a Minecraft-themed photo, and includes a countdown for new Minecraft updates!",
+    "version": "2.0",
     "manifest_version": 3,
     "chrome_url_overrides" : {
         "newtab": "newtab.html"
